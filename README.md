@@ -1,2 +1,2 @@
 # react-express-web-app
-Frontend (React js),Backend: (Nodejs+Express)
+Frontend  (React js),Backend API: (Nodejs+Express)
